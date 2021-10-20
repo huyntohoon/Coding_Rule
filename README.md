@@ -1,6 +1,7 @@
 # Coding_Rule
 
-GVCS, The AngularJS commit conventions
+1. GVCS
+2. The AngularJS commit conventions
 
 # Google Java Coding Style
 
@@ -139,6 +140,8 @@ Static 멤버 접근
     반드시 클래스 명으로 접근
     생성한 객체 내 static 멤버로 접근하지 않음
 ```
+
+<br>
 
 # The AngularJS commit conventions
 
